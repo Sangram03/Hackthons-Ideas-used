@@ -60,3 +60,5 @@ Let me know if you want a full `README.md` template including setup steps, usage
 
 
 <img width="867" height="215" alt="Image" src="https://github.com/user-attachments/assets/3f7b75bb-a84b-4e97-96d3-a37bd0fac172" />
+
+<img width="352" height="299" alt="Image" src="https://github.com/user-attachments/assets/8d3e3c1e-413c-4af7-9193-1e4aefdbfa26" />
