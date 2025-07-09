@@ -57,3 +57,6 @@ npm run dev
 ---
 
 Let me know if you want a full `README.md` template including setup steps, usage instructions, and example `.env` format.
+
+
+<img width="867" height="215" alt="Image" src="https://github.com/user-attachments/assets/3f7b75bb-a84b-4e97-96d3-a37bd0fac172" />
