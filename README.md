@@ -11,4 +11,4 @@
 | 07       | **Admin Panel** 🧑‍💼📈               | [View Code](#) |
 | 08       | **AI/ML Module** 🤖📊               | [View Code](#) |
 | 09       | **Deployment Scripts** 🚀🛠️         | [View Code](#) |
-| 10       | **Docs & API Reference** 📄🧾       | [View Code](#) |
+| 10       | **Docs & API Reference** 📄🧾       | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/tree/main/Backend/API) |
