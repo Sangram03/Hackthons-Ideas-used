@@ -1,4 +1,4 @@
-## 🧩 Frontend Project Modules Overview :
+## 🧩 Frontend Project Modules Overview : -
 
 | 🔢 **No** | 🗂️ **Module Name**                | 🔗 **Solution Link** ☕ |
 |:--------:|:----------------------------------:|:----------------------:|
