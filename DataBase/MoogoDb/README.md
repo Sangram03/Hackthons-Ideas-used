@@ -1,4 +1,4 @@
-## 🧩 DataBase Project Modules Overview
+## 🧩 Moogodb Project Modules Overview
 
 | 🔢 **No** | 🗂️ **Module Name**                | 🔗 **Solution Link** ☕ |
 |:--------:|:----------------------------------:|:----------------------:|
