@@ -15,8 +15,8 @@ export default defineConfig({
 })
 ```
 
-```Tailwind CSS
-# import css in the basic function
+```bash
+# import css in the basic function 
 @import "tailwindcss";
 ```
 
