@@ -1,5 +1,4 @@
-Here's how you can write that in a `gitmd` (GitHub-flavored Markdown) style for documentation:
-
+### For ReactJs
 ```bash
 # Install Tailwind CSS with the Vite plugin
 npm install tailwindcss @tailwindcss/vite
