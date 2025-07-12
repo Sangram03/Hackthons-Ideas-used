@@ -15,6 +15,11 @@ export default defineConfig({
 })
 ```
 
+```Tailwind CSS
+# import css in the basic function
+@import "tailwindcss";
+```
+
 ```bash
 # Start the development server
 npm run dev
