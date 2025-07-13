@@ -1,8 +1,6 @@
-<<<<<<< HEAD:Frontend/Tailwind/ReactTailwindCSS.md
 
-=======
 ### For ReactJs
->>>>>>> 647683a9f8b69ffafa7ca8ab2d97f050609aff19:Frontend/Tailwind/TailwindCSS.md
+
 ```bash
 # Install Tailwind CSS with the Vite plugin
 npm install tailwindcss @tailwindcss/vite
