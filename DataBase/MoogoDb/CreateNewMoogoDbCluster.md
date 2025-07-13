@@ -74,12 +74,7 @@ mongodb+srv://api_user:<password>@cluster0.mongodb.net/?retryWrites=true&w=major
 Let me know if you want help connecting this to your Express app (`mongoose.connect(...)` setup).
 
 
-<img width="972" height="816" alt="Image" src="https://github.com/user-attachments/assets/3ad4c47f-2275-4af2-b5e1-ede71e71e0ff" />
-
 
 
 <img width="728" height="609" alt="Image" src="https://github.com/user-attachments/assets/164665c9-119e-4c62-8dbc-33ae0dd5f29c" />
 
-<img width="975" height="820" alt="Image" src="https://github.com/user-attachments/assets/635970fc-78d1-47d2-a66d-03de19ff1418" />
-
-<img width="972" height="816" alt="Image" src="https://github.com/user-attachments/assets/0467506f-08f4-45f1-a2bb-1ad453f533b8" />
