@@ -126,3 +126,7 @@ Would you like sample code for promise‑based notifications, dynamically updati
 [4]: https://fkhadra.github.io/react-toastify/introduction/?utm_source=chatgpt.com "React-Toastify - GitHub Pages"
 [5]: https://www.dhiwise.com/blog/design-converter/react-toastify-made-easy-custom-alerts-for-your-app?utm_source=chatgpt.com "React Toastify: A Practical Guide to Custom Notifications - DhiWise"
 [6]: https://github.com/fkhadra/react-toastify/releases?utm_source=chatgpt.com "Releases · fkhadra/react-toastify - GitHub"
+
+
+
+<img width="891" height="645" alt="Image" src="https://github.com/user-attachments/assets/2918d556-27b6-443d-8f59-e5680e86b273" />
