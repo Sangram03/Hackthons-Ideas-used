@@ -130,3 +130,25 @@ Would you like sample code for promise‑based notifications, dynamically updati
 
 
 <img width="891" height="645" alt="Image" src="https://github.com/user-attachments/assets/2918d556-27b6-443d-8f59-e5680e86b273" />
+
+
+```js
+
+import React from 'react';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+function App() {
+  const notify = () => toast("Wow so easy!");
+
+  return (
+    <div>
+      <button onClick={notify}>Notify!</button>
+      <ToastContainer />
+    </div>
+  );
+}
+
+export default App;
+
+```
