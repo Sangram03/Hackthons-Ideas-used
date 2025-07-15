@@ -7,5 +7,6 @@
 | 0       | **Javascript** 📚🔢     | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/tree/main/Frontend/Javascript) |
 | 04       | **React** 🧠🔧                    | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/tree/main/Frontend/React) |
 | 05       | **Tailwind** 📚🔢     | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/tree/main/Frontend/Tailwind) |
+| 06       | **Bootstrap** 📚🔢     | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/tree/main/Frontend/BootStrap) |
 
 
