@@ -7,4 +7,6 @@
 | 🔢 **No** | 🗂️ **Module Name**                | 🔗 **Solution Link** ☕ |
 |:--------:|:----------------------------------:|:----------------------:|
 | 01       | **Install lenis** 🎨🖥️                  | [View Code](#) |
+| 02       | **JSON stringify** 🎨🖥️                  | [View Code](#) |
+| 03       | **Map Methodin React** 🎨🖥️                  | [View Code](#) |
 

@@ -34,3 +34,4 @@ Let me know if you want help setting up environment variables like:
 ```env
 MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/dbname?retryWrites=true&w=majority
 ```
+<img width="1903" height="855" alt="Image" src="https://github.com/user-attachments/assets/2a5a6dd5-554d-4c96-9167-7ce38d1d598e" />
