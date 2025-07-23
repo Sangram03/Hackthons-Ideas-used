@@ -1,3 +1,5 @@
+### Docs :- https://nodemailer.com/
+
 `nodemailer` is a **Node.js module** that allows you to **send emails directly from your backend server**—without relying on a third-party email service dashboard.
 
 ---

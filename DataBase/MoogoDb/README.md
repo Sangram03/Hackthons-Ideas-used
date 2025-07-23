@@ -7,4 +7,7 @@
 | 03       | **MongoDbconncted** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/MongoDbconncted.md) |
 | 04       | **MongoDbconniction in details** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/MoogobdAtlasconnectionInDetails.md) |
 | 05       | **MongoDbconniction in Network** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/CreateNetWorkportal.md) |
-| 06       | **MongoDbconniction in Network** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/MongoDbEvent.md) |
+| 06       | **MongoDB&ODMforNode** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/MongoDB&ODMforNode.md) |
+| 06       | **Minimize** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/Minimize.md) |
+| 06       | **Mongoo Seschema** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/MongooSeschema.md) |
+| 06       | **Save()inDetails** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/DataBase/MoogoDb/Save()inDetails.md) |

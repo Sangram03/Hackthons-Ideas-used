@@ -13,4 +13,7 @@
 | 05       | **Cookie Parser** 🎨🖥️                  | [View Code](#) |
 | 06       | **Node Mailer** 🎨🖥️                  | [View Code](#) |
 | 07       | **Bcypt Details** 🎨🖥️                  | [View Code](#) |
+| 08       | **Brevo Details** 🎨🖥️                  | [View Code](#) |
+| 09       | **Jwt verify** 🎨🖥️                  | [View Code](#) |
+| 10       | **JWT(JSON Web Token)** 🎨🖥️                  | [View Code](#) |
 
