@@ -6,7 +6,7 @@
 ```
 
 ```bash
-# Install Tailwind CSS with the Vite plugin
+# Docs  Tailwind CSS with the Vite plugin open in new tap
 https://tailwindcss.com/docs/installation/play-cdn
 ```
 
