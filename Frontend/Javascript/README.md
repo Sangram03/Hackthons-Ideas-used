@@ -18,10 +18,17 @@
 | 10       | **Promise Function** 🎨🖥️                  | [View Code](#) |
 | 11       | **Selector** 🎨🖥️                  | [View Code](#) |
 | 12       | **Href vs Src** 🎨🖥️                  | [View Code](#) |
-| 12       | **Spread** 🎨🖥️                  | [View Code](#) |
-| 12       | **Rest** 🎨🖥️                  | [View Code](#) |
-| 12       | **Anime Js** 🎨🖥️                  | [View Code](#) |
-| 12       | **Three JS** 🎨🖥️                  | [View Code](#) |
-| 12       | **D3 JS** 🎨🖥️                  | [View Code](#) |
-| 12       | **GSAP JS** 🎨🖥️                  | [View Code](#) |
+| 13       | **Spread** 🎨🖥️                  | [View Code](#) |
+| 14       | **Rest** 🎨🖥️                  | [View Code](#) |
+| 15       | **Anime Js** 🎨🖥️                  | [View Code](#) |
+| 16       | **Three JS** 🎨🖥️                  | [View Code](#) |
+| 17       | **D3 JS** 🎨🖥️                  | [View Code](#) |
+| 18       | **GSAP JS** 🎨🖥️                  | [View Code](#) |
+| 19       | **Farmer Motion** 🎨🖥️                  | [View Code](#) |
+| 20       | **Lottie** 🎨🖥️                  | [View Code](#) |
+| 21       | **ScrollReveal** 🎨🖥️                  | [View Code](#) |
+| 22       | **Popmotion** 🎨🖥️                  | [View Code](#) |
+| 23       | **Mo.js** 🎨🖥️                  | [View Code](#) |
+| 24       | **ScrollMagic** 🎨🖥️                  | [View Code](#) |
+| 25       | **Typed.js** 🎨🖥️                  | [View Code](#) |
 
