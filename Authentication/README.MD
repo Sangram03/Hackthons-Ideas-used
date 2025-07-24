@@ -16,4 +16,5 @@
 | 08       | **Brevo Details** 🎨🖥️                  | [View Code](#) |
 | 09       | **Jwt verify** 🎨🖥️                  | [View Code](#) |
 | 10       | **JWT(JSON Web Token)** 🎨🖥️                  | [View Code](#) |
+| 10       | **Middleware Auth.js** 🎨🖥️                  | [View Code](#) |
 

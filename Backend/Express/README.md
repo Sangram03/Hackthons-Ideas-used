@@ -11,3 +11,4 @@
 | 06       | **ResJson** 🎨🖥️                  | [View Code](#) |
 | 07       | **Route** 🎨🖥️                  | [View Code](#) |
 | 08       | **Server** 🎨🖥️                  | [View Code](#) |
+| 08       | **Express.static('uploads'))** 🎨🖥️                  | [View Code](#) |

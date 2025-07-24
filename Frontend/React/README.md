@@ -52,6 +52,7 @@
 | 45       | **Window.addEventListener()** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/React/Window.addEventListener().md) |
 | 46       | **Window.location**🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/React/Window.location.md) |
 | 47       | **Window.open()** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/React/Window.open().md) |
+| 47       | **Event preventDefault** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/React/Window.open().md) |
 
 
 
