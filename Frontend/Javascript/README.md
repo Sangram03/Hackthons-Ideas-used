@@ -8,7 +8,7 @@
 |:--------:|:----------------------------------:|:----------------------:|
 | 01       | **Install lenis** 🎨🖥️                  | [View Code](#) |
 | 02       | **JSON stringify** 🎨🖥️                  | [View Code](#) |
-| 03       | **Map Methodin React** 🎨🖥️                  | [View Code](#) |
+| 03       | **Map Method** 🎨🖥️                  | [View Code](#) |
 | 04       | **EcmaScript js** 🎨🖥️                  | [View Code](#) |
 | 05       | **Async Function** 🎨🖥️                  | [View Code](#) |
 | 06       | **Await Function** 🎨🖥️                  | [View Code](#) |
