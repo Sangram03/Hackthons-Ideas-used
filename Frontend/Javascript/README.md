@@ -31,4 +31,5 @@
 | 23       | **Mo.js** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/Javascript/Mo.js.md) |
 | 24       | **ScrollMagic** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/Javascript/ScrollMagic.md) |
 | 25       | **Typed.js** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/Javascript/Typed.js.md) |
+| 26       | **SetTimeout** 🎨🖥️                  | [View Code](https://github.com/Sangram03/Hackthons-Ideas-used/blob/main/Frontend/Javascript/SetTimeout.md) |
 

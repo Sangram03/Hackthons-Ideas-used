@@ -61,6 +61,8 @@ Use **relative positioning** to add the icon inside the input:
 
 ---
 
+<img width="460" height="191" alt="Image" src="https://github.com/user-attachments/assets/548135f2-a5a4-4556-8c5c-82711ccba140" />
+
 ### ✅ How to Use Other Libraries (Example Snippets)
 
 #### 🔹 **Bootstrap Icons**
