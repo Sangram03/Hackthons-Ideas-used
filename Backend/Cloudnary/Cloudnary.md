@@ -1,4 +1,3 @@
-<img width="1425" height="653" alt="Image" src="https://github.com/user-attachments/assets/669c3eea-11a3-4e6e-acc1-6944f46f3e5e" />
 
 ## ☁️ What is Cloudinary?
 
